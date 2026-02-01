@@ -34,4 +34,4 @@ Beyond code, we specialize in high-conversion visual storytelling:
 ---
 
 ### 💬 Let's Build Something Great Together
-📧 **Email:** [systemskns@gmail.com](mailto:systemskns@gmail.com) | 🌐 **Website:** [Coming soon...] | 💼 **LinkedIn:** [KNS Systems](https://www.linkedin.com/in/kns-systems-84b5983a9/)
+📧 **Email:** [contact.systemskns@gmail.com](mailto:contact.systemskns@gmail.com) | 🌐 **Website:** [Coming soon...] | 💼 **LinkedIn:** [KNS Systems](https://www.linkedin.com/in/kns-systems-84b5983a9/)
