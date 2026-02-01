@@ -33,5 +33,12 @@ Beyond code, we specialize in high-conversion visual storytelling:
   
 ---
 
+### 📈 GitHub Status
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knssystems&theme=radical" alt="GitHub Stats" width="100%" />
+</p
+
+---
+
 ### 💬 Let's Build Something Great Together
 📧 **Email:** [contact.systemskns@gmail.com](mailto:contact.systemskns@gmail.com) | 🌐 **Website:** [Coming soon...] | 💼 **LinkedIn:** [KNS Systems](https://www.linkedin.com/in/kns-systems-84b5983a9/)
